@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://ci4h25qqlb7j0"]
+
+[ext_resource type="Script" uid="uid://dc8tjp42jojjn" path="res://src/core/world_time_data/world_time_data.gd" id="1_d54ry"]
+
+[node name="WorldTimeData" type="Node" unique_id=1545825312]
+process_mode = 1
+script = ExtResource("1_d54ry")
